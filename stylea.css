@@ -1,0 +1,27 @@
+body {
+    display: grid;
+    padding: 0;
+    width: 0;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+ul {
+    width: 100%;
+    float: left;
+}
+
+img {
+    text-align: center;
+    width: 100%;
+}
+
+#search {
+    text-align: center;
+    width: 100%;
+}
